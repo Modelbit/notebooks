@@ -5,5 +5,5 @@
 
 | Notebook | Open in Colab | Complimentary Content |
 | --- | --- |---|
-| notebook 1 | link1 |
+| pytorch-ie | link1 |
 | notebook 2 | link2 |
