@@ -2,7 +2,7 @@
 
 
 # Hello from the creators of Modelbit.
-:wave: We built a tool that let's you deploy ML models to aREST endpoint with one line of code. Along the way, we've tested models like SAM, Grounding DINO, and pytorch-ie. This repository contains some of the tutorials and techniques we've used to deploy advanced ML models into production.
+:wave: We built a platform that let's you deploy ML models to a REST endpoint with one line of code. Along the way, we've tested getting models into production built on frameworks like SAM, Grounding DINO, PyTorch, and Tensorflow. This repository contains some of the tutorials and techniques we've used to deploy advanced ML models into production.
 
 # ML Model Deploymen Tutorials by Model Type
 
