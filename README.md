@@ -8,5 +8,5 @@
 
 | Notebook | Open in Colab | Complimentary Content |
 | --- | --- |---|
-| pytorch-ie | <a target="_blank" href="https://colab.research.google.com/github/Modelbit/notebooks/blob/main/notebooks/pytorch_ie.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> |
+| [pytorch-ie](https://github.com/Modelbit/notebooks/blob/main/notebooks/pytorch_ie.ipynb) | <a target="_blank" href="https://colab.research.google.com/github/Modelbit/notebooks/blob/main/notebooks/pytorch_ie.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> |
 | notebook 2 | link2 |
