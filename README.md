@@ -14,4 +14,5 @@
 | [Prophet](https://github.com/Modelbit/notebooks/blob/main/notebooks/deploy_a_prophet_model_to_a_rest_endpoint.ipynb) | [![Colab Badge](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Modelbit/notebooks/blob/main/notebooks/deploy_a_prophet_model_to_a_rest_endpoint.ipynb) |
 | [SKLearn & XGBoost Lead Scoring](https://github.com/Modelbit/notebooks/blob/main/notebooks/deploy_an_sklearn_and_xgboost_lead_scoring_model_to_a_rest_endpoint.ipynb) |
 
-[![Colab Badge](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Modelbit/notebooks/blob/main/notebooks/deploy_an_sklearn_and_xgboost_lead_scoring_model_to_a_rest_endpoint.ipynb) | |
+
+[![Colab Badge](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Modelbit/notebooks/blob/main/notebooks/deploy_an_sklearn_and_xgboost_lead_scoring_model_to_a_rest_endpoint.ipynb)
